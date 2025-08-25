@@ -14,7 +14,7 @@ This repository contains a **Power BI report (.pbix)** for analyzing **Mobile Sa
 
 ## 📂 Project Structure  
 ```
-├── 25826c3a-62d1-4912-b398-2135f731e641.pbix   # Power BI report file
+├── Power_BI Project.pbix   # Power BI report file
 ├── README.md                                   # Project documentation
 ├── dashboard_preview.png                        # Dashboard screenshot
 ```
